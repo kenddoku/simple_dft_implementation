@@ -5,4 +5,4 @@ __NOTE:__ _To be added:_
 
 _Future of the project:_
 A nice extension of the project would be to implement the DFT (via FFT) on a microcontroler (e.g. STM32), encode information (text, audio, image) and send it in form of analog signal (using a DAC)
-to be decoded (modem creation).
+to be decoded by the receving end (modem creation).
