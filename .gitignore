@@ -1,0 +1,4 @@
+*.out
+*.txt
+sin_generator.c
+test_complex.c
